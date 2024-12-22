@@ -1,0 +1,41 @@
+@media screen and (max-width:900px) {
+    .otherHeadSide, .browser{
+        display: none;
+    }
+    .buttonMobile{
+        display: block;
+    }
+    .header .logoSide img {
+        width: 125px;
+        left: 0px;
+    }
+    .footer{
+        margin-bottom: 20px;
+        padding-top: 20px;
+        background-color: #ededed;
+    }
+    .mobileFooter{
+        display: block;
+    }
+    .innerFooterSec{
+        padding: 10px;
+    }
+    .innerFooterSec p{
+        padding: 0px;
+    }
+    .innerFooterSec img {
+        width: 100px;
+    }
+    .imgSectionContainerMain h3 {
+        font-size: 10px;
+        padding: 5px;
+    }
+
+    .buttonMobile button {
+        font-size: 10px;
+        padding: 5px 10px;
+        height: 28px;
+    }
+    
+
+}
