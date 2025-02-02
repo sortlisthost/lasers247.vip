@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.lasers247.win/sitemap.xml
+Sitemap: https://www.lasers247.vip/sitemap.xml
+Sitemap: https://www.lasers247.vip/images_sitemap.xml
